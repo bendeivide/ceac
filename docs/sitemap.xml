@@ -2,175 +2,175 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https:://bendeivide.github.io/ceacevent/example/</loc>
+    <loc>http://localhost:4321/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacevent/</loc>
+    <loc>http://localhost:4321/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacprojects/</loc>
+    <loc>http://localhost:4321/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacpost/get-started/</loc>
+    <loc>http://localhost:4321/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceactags/academic/</loc>
+    <loc>http://localhost:4321/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacpost/</loc>
+    <loc>http://localhost:4321/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceactags/hugo-blox/</loc>
+    <loc>http://localhost:4321/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceactags/markdown/</loc>
+    <loc>http://localhost:4321/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceactags/</loc>
+    <loc>http://localhost:4321/tags/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceactags/hugo/</loc>
+    <loc>http://localhost:4321/tags/hugo/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacproject/pandas/</loc>
+    <loc>http://localhost:4321/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacproject/</loc>
+    <loc>http://localhost:4321/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacproject/pytorch/</loc>
+    <loc>http://localhost:4321/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacproject/scikit/</loc>
+    <loc>http://localhost:4321/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceactags/second-brain/</loc>
+    <loc>http://localhost:4321/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceactags/wowchemy/</loc>
+    <loc>http://localhost:4321/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacpost/second-brain/</loc>
+    <loc>http://localhost:4321/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacpost/data-visualization/</loc>
+    <loc>http://localhost:4321/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacpost/teach-courses/</loc>
+    <loc>http://localhost:4321/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacteaching/python2/</loc>
+    <loc>http://localhost:4321/teaching/python2/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacexperience/</loc>
+    <loc>http://localhost:4321/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceactags/hugo-blox-builder/</loc>
+    <loc>http://localhost:4321/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceactags/javascript/</loc>
+    <loc>http://localhost:4321/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacteaching/js/</loc>
+    <loc>http://localhost:4321/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacteaching/python/</loc>
+    <loc>http://localhost:4321/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceactags/python/</loc>
+    <loc>http://localhost:4321/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacteaching/</loc>
+    <loc>http://localhost:4321/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacpost/project-management/</loc>
+    <loc>http://localhost:4321/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceac</loc>
+    <loc>http://localhost:4321/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacpost/2020-12-01-r-rmarkdown/</loc>
+    <loc>http://localhost:4321/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceactags/plot/</loc>
+    <loc>http://localhost:4321/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceactags/r-markdown/</loc>
+    <loc>http://localhost:4321/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceactags/regression/</loc>
+    <loc>http://localhost:4321/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacpublication/preprint/</loc>
+    <loc>http://localhost:4321/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacpublication_types/article/</loc>
+    <loc>http://localhost:4321/publication_types/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceactags/large-language-models/</loc>
+    <loc>http://localhost:4321/tags/large-language-models/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacpublication_types/</loc>
+    <loc>http://localhost:4321/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacpublication/</loc>
+    <loc>http://localhost:4321/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacpublication/journal-article/</loc>
+    <loc>http://localhost:4321/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacpublication_types/article-journal/</loc>
+    <loc>http://localhost:4321/publication_types/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceactags/source-themes/</loc>
+    <loc>http://localhost:4321/tags/source-themes/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacpublication/conference-paper/</loc>
+    <loc>http://localhost:4321/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https:://bendeivide.github.io/ceacpublication_types/paper-conference/</loc>
+    <loc>http://localhost:4321/publication_types/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
