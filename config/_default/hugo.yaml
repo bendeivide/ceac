@@ -6,7 +6,7 @@
 # Website name
 title: Clube de Engenharia Assistida por Computador
 # Website URL
-baseURL: 'https://bendeivide.github.io/ceac'
+baseURL: 'https://bendeivide.github.io/ceac/'
 publishDIR: docs/
 
 ############################
