@@ -7,21 +7,21 @@ main:
   - name: Sobre o CEAC
     url: /
     weight: 10
-  - name: Papers
+  - name: Projetos
     url: /#papers
     weight: 11
-  - name: Talks
+  - name: Publicações
     url: /#talks
     weight: 12
-  - name: News
+  - name: Cursos
     url: /#news
     weight: 13
-  - name: Experience
+  - name: Novidades
     url: experience/
     weight: 20
-  - name: Projects
+  - name: Membros
     url: projects/
     weight: 30
-  - name: Teaching
+  - name: Fale conosco
     url: teaching/
     weight: 40
