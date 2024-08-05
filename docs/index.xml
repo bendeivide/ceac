@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Clube de Engenharia Assistida por Computador 2</title>
+    <title>Clube de Engenharia Assistida por Computador</title>
     <link>https://bendeivide.github.io/ceac/</link>
       <atom:link href="https://bendeivide.github.io/ceac/index.xml" rel="self" type="application/rss+xml" />
-    <description>Clube de Engenharia Assistida por Computador 2</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <description>Clube de Engenharia Assistida por Computador</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>pt</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bendeivide.github.io/ceac/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
-      <title>Clube de Engenharia Assistida por Computador 2</title>
+      <url>https://bendeivide.github.io/ceac/media/icon_hu552b14afe9852a942613ec5f941c3df7_131707_512x512_fill_lanczos_center_3.png</url>
+      <title>Clube de Engenharia Assistida por Computador</title>
       <link>https://bendeivide.github.io/ceac/</link>
     </image>
     
@@ -51,7 +51,7 @@
 
 
 &lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;summary&gt;Lista de Conteúdos&lt;/summary&gt;
   &lt;div class=&#34;text-sm&#34;&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
@@ -270,7 +270,7 @@
 
 
 
-&lt;div id=&#34;chart-764519832&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-947513628&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -288,7 +288,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-764519832&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-947513628&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1040,9 +1040,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://bendeivide.github.io/ceac/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://bendeivide.github.io/ceac/post/2020-12-01-r-rmarkdown/index.en/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://bendeivide.github.io/ceac/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://bendeivide.github.io/ceac/post/2020-12-01-r-rmarkdown/index.en/</guid>
       <description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
@@ -1073,7 +1073,7 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;init.angle&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;-50&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;border&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://bendeivide.github.io/ceac/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://bendeivide.github.io/ceac/post/2020-12-01-r-rmarkdown/index.en/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;Figure 1: A fancy pie chart.&lt;/p&gt;
 &lt;/div&gt;
 </description>

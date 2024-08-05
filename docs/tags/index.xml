@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Clube de Engenharia Assistida por Computador 2</title>
+    <title>Tags | Clube de Engenharia Assistida por Computador</title>
     <link>https://bendeivide.github.io/ceac/tags/</link>
       <atom:link href="https://bendeivide.github.io/ceac/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>pt</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bendeivide.github.io/ceac/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://bendeivide.github.io/ceac/media/icon_hu552b14afe9852a942613ec5f941c3df7_131707_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
       <link>https://bendeivide.github.io/ceac/tags/</link>
     </image>

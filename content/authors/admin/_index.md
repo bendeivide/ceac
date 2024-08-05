@@ -57,7 +57,7 @@ education:
     - lorem ipsum dolor sit amet, consectetur adipiscing elit
     - lorem ipsum dolor sit amet, consectetur adipiscing elit
     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-first_name: Shiung Wu
+first_name: Clube de Engenharia Assistida por Computador
 highlight_name: true
 interests:
 - Artificial Intelligence
@@ -71,10 +71,10 @@ languages:
 - name: Portuguese
   percent: 25
 last_name: Chien
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Clube de Engenharia Assistida por Computador
 organizations:
-- name: OpenAI
-  url: https://openai.com/
+- name: UFSJ
+  url: https://ufsj.edu.br/
 profiles:
 - icon: at-symbol
   label: E-mail Me
@@ -91,7 +91,7 @@ profiles:
   url: https://scholar.google.com/
 - icon: academicons/orcid
   url: https://orcid.org/
-role: Chief Scientist
+role: 
 skills:
 - items:
   - description: ""
@@ -126,7 +126,7 @@ skills:
 status:
   icon: ☕️
 superuser: true
-title: 吳健雄
+title: CEAC
 work:
 - company_logo: ""
   company_name: GenCoin
@@ -152,6 +152,6 @@ work:
     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
-## Sobre mim
+## Sobre o CEAC
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Texto sobre o Ceac...

@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Clube de Engenharia Assistida por Computador 2
+title: Clube de Engenharia Assistida por Computador
 # Website URL
 baseURL: 'https://bendeivide.github.io/ceac/'
 publishDIR: docs/
@@ -13,7 +13,7 @@ publishDIR: docs/
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: pt
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
