@@ -79,18 +79,17 @@ profiles:
 - icon: at-symbol
   label: E-mail Me
   url: mailto:your-email@example.com
-- icon: brands/x
-  url: https://twitter.com/GetResearchDev
+- icon: brands/youtube
+  url: https://www.youtube.com/@ceacufsj
 - icon: brands/instagram
-  url: https://www.instagram.com/
-- icon: brands/github
+  url: https:www.instagram.com/ceac_ufsj/
+- icon: brands/x
   url: https://github.com/gcushen
 - icon: brands/linkedin
-  url: https://www.linkedin.com/
-- icon: academicons/google-scholar
+  url: https://www.linkedin.com/company/ceac-ufsj/
+- icon: brands/github
   url: https://scholar.google.com/
-- icon: academicons/orcid
-  url: https://orcid.org/
+
 role: 
 skills:
 - items:
@@ -154,4 +153,4 @@ work:
 
 ## Sobre o CEAC
 
-Texto sobre o Ceac...
+O Clube de Engenharia Assistida por Computador é uma iniciativa da Universidade Federal de São João del-Rei (UFSJ), no campus Alto Paraopeba (CAP). O clube visa desenvolver códigos para resolver problemas reais de engenharia com propósito educacional. A principal meta do clube é oferecer tutoria aos estudantes da universidade, permitindo-lhes entender melhor a programação e utilizá-la como uma ferramenta valiosa em suas carreiras.
